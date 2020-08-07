@@ -10,6 +10,7 @@
         android:layout_weight="1"
         android:contentDescription="@string/sml"
         android:src="@drawable/small" />
+    
 
     <ImageButton
         android:id="@+id/medium_brush"
